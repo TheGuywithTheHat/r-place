@@ -1,1 +1,157 @@
-{"start_time": 1648831450.315, "rows": 160353104, "censors": [["2022-04-04 01:22:50.891 UTC", "q+XjkQ6WRx0aBLtb2xRGWBrsHALXejJxEE2hs6sDJHfN2LO0X0ML5Yy2CFsNdFxU6CgXTrrSKv/Un6Dx6JdHbA==", "#000000", "1349,1718,1424,1752"], ["2022-04-03 23:29:52.139 UTC", "gS0DWvPgaiQkHvG4NsHveLvpn8uf50t+sOY3nIykDvkyEdsDvqiTB5Fzh4XNe+26OKIhkmogXOaSzoZ6IXS+2Q==", "#FFB470", "297,1750,364,1813"], ["2022-04-03 23:05:04.703 UTC", "m8NEcPbf5XRV5ppeuZ3KLIYAG8GuHkNIxOEsCD06Ey8I1E5QicEqMzXkHrZQeVg6lIagpzwsaq7k0/Y/o5h5PA==", "#FFB470", "298,1805,329,1839"], ["2022-04-03 23:08:50.038 UTC", "LKS2u3QL2N3Olv7rnUCWry4KJ5K4Ea+/9qKyadTNl01apEcCr8iYdnmiamfJE7OjkLQHZ69YYiMpqg4bBpCnCA==", "#FFB470", "257,1736,296,1780"], ["2022-04-03 23:03:29.93 UTC", "q/Dk6lmcXm8bcDbNIhDglz7kFuCmX6zkca9UPivDix5WWi/ILMHHn0Ljw+Nwzh/DcRoub9ti6LBEAp9fpJek4Q==", "#FFB470", "298,1770,334,1803"], ["2022-04-03 23:10:36.803 UTC", "HkR0yRQUJ1wsjh4Zo4VdKE43IctIGMFS9VuVm9IyCFcPOAPS4mTuhwb4UFs4ifeuhmknaCQlBG+f44AITi2VQA==", "#FFF8B8", "251,1805,296,1812"], ["2022-04-03 23:12:51.382 UTC", "7JiQyrONpFJphvBEPVUGyxjBsdvU8fuiSVzpMuTkxFDjqtyQwTv+4gACAL4NJRtV48AV/8Fecb74RvvJu5PEvw==", "#FFF8B8", "271,1835,296,1859"], ["2022-04-04 04:12:20.372 UTC", "gXOuxCyb/dslyRb5GQW+JbG9NRxMHxGGV3V5018ha4bVrUYUCw2LDwbsvicgI8bkWmlwPg1Y68SQK8aEJ30a6w==", "#000000", "23,1523,172,1792"], ["2022-04-04 04:29:41.896 UTC", "Tqn87vyPxAHtPMu4xuAqTHkBvUhFi/BKLnQ0XyEraQ3ut93qO9zY3nUivplx4NVxKrvTS3xDGVV2+GicCuV0kQ==", "#000000", "51,1691,154,1807"], ["2022-04-04 04:16:10.416 UTC", "oPv1iZrj4UMjfhzOTVNZKwNe6u/bNG2Tabw8H7UOABps62BJuj+/TA5zA7C47pqMEOCxlloedL4+EQgRkiP48w==", "#000000", "44,1652,165,1899"], ["2022-04-04 19:29:49.9 UTC", "wpjJ1TbSwZtj96n9Zj5XxUbr5Z0Ed11Ef0szGgm+XRRV9vPLC/pFgUfnkSNEopyd+qPg5bbjsm+Sr7y/uTSxfA==", "#00CC78", "1372,1472,1406,1497"], ["2022-04-04 19:29:49.2 UTC", "Ps64FZelo7/8upEdCIU3ZZV5Xho2lfCF8ybTQBM7isSkTUoUR4CmSLbjHLcZmbD6tTA0YL10WRrIZLvwH7ajYw==", "#2450A4", "1373,1400,1419,1436"], ["2022-04-04 19:29:49.559 UTC", "FJD0LHykwotIeUCO9fNUIhWOOmO1Us12tQCCBad2k4bhHsUcJV0Eh8wShsGHHXLRD++PwM//DdXz87lS8WMAPQ==", "#898D90", "1371,1438,1418,1472"], ["2022-04-04 19:29:50.051 UTC", "2U70JUfTVJoWF40aa3CVRKR1R7XcehHNbgA6BTOIPTjeZQH6oQ9ymiVpZ/QON6Hd0pYvtOaVCsIBhtw0lc8NqQ==", "#B44AC0", "1375,1355,1424,1399"], ["2022-04-04 15:58:33.239 UTC", "vnCNr84RaVDsTzLffAYaiEcF/4WIDDBEk/hKsFX7HO9hVO0u7SZ1B7XvXRX+xF6H7IhIzj3hT3LEYa+rMnlCBg==", "#94B3FF", "551,1311,562,1342"], ["2022-04-04 15:59:10.926 UTC", "8dCm+y4XG/R21ijH9er0xcYdMU3lFaCgIyUYHhdk5nR5ucZC8yG6EDUlvXkeS3pQ6Yq4KrtXbmNIWp05xDXEHQ==", "#94B3FF", "547,1330,550,1342"], ["2022-04-01 14:44:08.158 UTC", "UY7pWDspuiKPKlsEMYNjkKYnoLkwPW0/ezIl++dHkTpFQ5pGOQ5Cw2lmwARxcTOeFrIwsHgcMpepkimuAIPTRQ==", "#898D90", "862,540,868,544"], ["2022-04-01 14:46:23.652 UTC", "yVC1UzwQLjSlhK6lV9kzwwlj0nzEfZ31d1EnR4enIpDpRObd5SguKMH9OvltK6aXxr4JSQOOz37iJ/xIgBo2Tw==", "#898D90", "862,540,873,545"], ["2022-04-01 14:46:39.702 UTC", "2ES5f0pi/aKJosil5Q8+t4zrjOhkOgZKcvIOCVLW6djCrc2tX3JTOBUEm2MNACiLXff2zpcxwiv2KiOAEx1ibA==", "#898D90", "871,546,878,550"]], "colors": ["#FFFFFF", "#FFF8B8", "#FFD635", "#FFB470", "#FFA800", "#FF99AA", "#FF4500", "#FF3881", "#E4ABFF", "#DE107F", "#D4D7D9", "#BE0039", "#B44AC0", "#9C6926", "#94B3FF", "#898D90", "#811E9F", "#7EED56", "#6D482F", "#6D001A", "#6A5CFF", "#51E9F4", "#515252", "#493AC1", "#3690EA", "#2450A4", "#00CCC0", "#00CC78", "#00A368", "#009EAA", "#00756F", "#000000"]}
+{
+    "start_time": 1648831450.315,
+    "rows": 160353104,
+    "first_expansion_index": 28190224,
+    "second_expansion_index": 71772961,
+    "last_nonwhite_index": 155926003,
+    "censors": [
+        [
+            "2022-04-04 01:22:50.891 UTC",
+            "q+XjkQ6WRx0aBLtb2xRGWBrsHALXejJxEE2hs6sDJHfN2LO0X0ML5Yy2CFsNdFxU6CgXTrrSKv/Un6Dx6JdHbA==",
+            "#000000",
+            "1349,1718,1424,1752"
+        ],
+        [
+            "2022-04-03 23:29:52.139 UTC",
+            "gS0DWvPgaiQkHvG4NsHveLvpn8uf50t+sOY3nIykDvkyEdsDvqiTB5Fzh4XNe+26OKIhkmogXOaSzoZ6IXS+2Q==",
+            "#FFB470",
+            "297,1750,364,1813"
+        ],
+        [
+            "2022-04-03 23:05:04.703 UTC",
+            "m8NEcPbf5XRV5ppeuZ3KLIYAG8GuHkNIxOEsCD06Ey8I1E5QicEqMzXkHrZQeVg6lIagpzwsaq7k0/Y/o5h5PA==",
+            "#FFB470",
+            "298,1805,329,1839"
+        ],
+        [
+            "2022-04-03 23:08:50.038 UTC",
+            "LKS2u3QL2N3Olv7rnUCWry4KJ5K4Ea+/9qKyadTNl01apEcCr8iYdnmiamfJE7OjkLQHZ69YYiMpqg4bBpCnCA==",
+            "#FFB470",
+            "257,1736,296,1780"
+        ],
+        [
+            "2022-04-03 23:03:29.93 UTC",
+            "q/Dk6lmcXm8bcDbNIhDglz7kFuCmX6zkca9UPivDix5WWi/ILMHHn0Ljw+Nwzh/DcRoub9ti6LBEAp9fpJek4Q==",
+            "#FFB470",
+            "298,1770,334,1803"
+        ],
+        [
+            "2022-04-03 23:10:36.803 UTC",
+            "HkR0yRQUJ1wsjh4Zo4VdKE43IctIGMFS9VuVm9IyCFcPOAPS4mTuhwb4UFs4ifeuhmknaCQlBG+f44AITi2VQA==",
+            "#FFF8B8",
+            "251,1805,296,1812"
+        ],
+        [
+            "2022-04-03 23:12:51.382 UTC",
+            "7JiQyrONpFJphvBEPVUGyxjBsdvU8fuiSVzpMuTkxFDjqtyQwTv+4gACAL4NJRtV48AV/8Fecb74RvvJu5PEvw==",
+            "#FFF8B8",
+            "271,1835,296,1859"
+        ],
+        [
+            "2022-04-04 04:12:20.372 UTC",
+            "gXOuxCyb/dslyRb5GQW+JbG9NRxMHxGGV3V5018ha4bVrUYUCw2LDwbsvicgI8bkWmlwPg1Y68SQK8aEJ30a6w==",
+            "#000000",
+            "23,1523,172,1792"
+        ],
+        [
+            "2022-04-04 04:29:41.896 UTC",
+            "Tqn87vyPxAHtPMu4xuAqTHkBvUhFi/BKLnQ0XyEraQ3ut93qO9zY3nUivplx4NVxKrvTS3xDGVV2+GicCuV0kQ==",
+            "#000000",
+            "51,1691,154,1807"
+        ],
+        [
+            "2022-04-04 04:16:10.416 UTC",
+            "oPv1iZrj4UMjfhzOTVNZKwNe6u/bNG2Tabw8H7UOABps62BJuj+/TA5zA7C47pqMEOCxlloedL4+EQgRkiP48w==",
+            "#000000",
+            "44,1652,165,1899"
+        ],
+        [
+            "2022-04-04 19:29:49.9 UTC",
+            "wpjJ1TbSwZtj96n9Zj5XxUbr5Z0Ed11Ef0szGgm+XRRV9vPLC/pFgUfnkSNEopyd+qPg5bbjsm+Sr7y/uTSxfA==",
+            "#00CC78",
+            "1372,1472,1406,1497"
+        ],
+        [
+            "2022-04-04 19:29:49.2 UTC",
+            "Ps64FZelo7/8upEdCIU3ZZV5Xho2lfCF8ybTQBM7isSkTUoUR4CmSLbjHLcZmbD6tTA0YL10WRrIZLvwH7ajYw==",
+            "#2450A4",
+            "1373,1400,1419,1436"
+        ],
+        [
+            "2022-04-04 19:29:49.559 UTC",
+            "FJD0LHykwotIeUCO9fNUIhWOOmO1Us12tQCCBad2k4bhHsUcJV0Eh8wShsGHHXLRD++PwM//DdXz87lS8WMAPQ==",
+            "#898D90",
+            "1371,1438,1418,1472"
+        ],
+        [
+            "2022-04-04 19:29:50.051 UTC",
+            "2U70JUfTVJoWF40aa3CVRKR1R7XcehHNbgA6BTOIPTjeZQH6oQ9ymiVpZ/QON6Hd0pYvtOaVCsIBhtw0lc8NqQ==",
+            "#B44AC0",
+            "1375,1355,1424,1399"
+        ],
+        [
+            "2022-04-04 15:58:33.239 UTC",
+            "vnCNr84RaVDsTzLffAYaiEcF/4WIDDBEk/hKsFX7HO9hVO0u7SZ1B7XvXRX+xF6H7IhIzj3hT3LEYa+rMnlCBg==",
+            "#94B3FF",
+            "551,1311,562,1342"
+        ],
+        [
+            "2022-04-04 15:59:10.926 UTC",
+            "8dCm+y4XG/R21ijH9er0xcYdMU3lFaCgIyUYHhdk5nR5ucZC8yG6EDUlvXkeS3pQ6Yq4KrtXbmNIWp05xDXEHQ==",
+            "#94B3FF",
+            "547,1330,550,1342"
+        ],
+        [
+            "2022-04-01 14:44:08.158 UTC",
+            "UY7pWDspuiKPKlsEMYNjkKYnoLkwPW0/ezIl++dHkTpFQ5pGOQ5Cw2lmwARxcTOeFrIwsHgcMpepkimuAIPTRQ==",
+            "#898D90",
+            "862,540,868,544"
+        ],
+        [
+            "2022-04-01 14:46:23.652 UTC",
+            "yVC1UzwQLjSlhK6lV9kzwwlj0nzEfZ31d1EnR4enIpDpRObd5SguKMH9OvltK6aXxr4JSQOOz37iJ/xIgBo2Tw==",
+            "#898D90",
+            "862,540,873,545"
+        ],
+        [
+            "2022-04-01 14:46:39.702 UTC",
+            "2ES5f0pi/aKJosil5Q8+t4zrjOhkOgZKcvIOCVLW6djCrc2tX3JTOBUEm2MNACiLXff2zpcxwiv2KiOAEx1ibA==",
+            "#898D90",
+            "871,546,878,550"
+        ]
+    ],
+    "colors": [
+        "#FFFFFF",
+        "#FFF8B8",
+        "#FFD635",
+        "#FFB470",
+        "#FFA800",
+        "#FF99AA",
+        "#FF4500",
+        "#FF3881",
+        "#E4ABFF",
+        "#DE107F",
+        "#D4D7D9",
+        "#BE0039",
+        "#B44AC0",
+        "#9C6926",
+        "#94B3FF",
+        "#898D90",
+        "#811E9F",
+        "#7EED56",
+        "#6D482F",
+        "#6D001A",
+        "#6A5CFF",
+        "#51E9F4",
+        "#515252",
+        "#493AC1",
+        "#3690EA",
+        "#2450A4",
+        "#00CCC0",
+        "#00CC78",
+        "#00A368",
+        "#009EAA",
+        "#00756F",
+        "#000000"
+    ]
+}
